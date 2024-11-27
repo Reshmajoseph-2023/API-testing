@@ -1,0 +1,40 @@
+[
+  {
+
+ 
+    "Skill": "C#",
+    "ExperienceLevel": "Expert",
+    "updateSkill": "Java",
+    "updateSkillLevel": "Beginner",
+    "certificationFrom": "MG",
+    "certificationName": "BTech",
+    "certificationYear": 2020,
+    "updatecertificationName": "MTech",
+    "updatecertifiedFrom": "Cusat",
+    "updatecertificationYear": 2021,
+    "availabilityType": 1,
+    "availableHours": 2,
+    "earnTarget": 1,
+    "FirstName": "ReshmaG",
+    "LastName": "George2019",
+    "personId": 0,
+    "title": "Automation Testing",
+    "description": "Manual and automation testing",
+    "categoryId": 6,
+    "subcategoryId": 4,
+    "tags": ["Testing"],
+    "serviceType": 0,
+    "locationType": 1,
+    "startDate": "2024-11-05",
+    "endDate": "2024-11-14",
+    "skillTrade": ["QA"],
+    "isTradable": true,
+    "charge": 0,
+    "credentials": true,
+    "isActive": true,
+    "name": "eng",
+    "level": "Basic",
+    "updateLanguage": "Mal",
+    "updateLanguageLevel": "Basic"
+  }
+]
